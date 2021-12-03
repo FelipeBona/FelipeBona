@@ -2,10 +2,10 @@
 
 
 - 🔭 Hoje Trabalho com front-end e back-end Na Senior
-- 🌱 Estudo Ciência da Computação na Furb e faço cursos a ProWay
+- 🌱 Estudo Ciência da Computação na Furb e faço cursos na ProWay
 - 📫 How to reach me: Linkedin: (Felipe Bona)
 - 😄 Pronouns: Vamo Dale 
-- ⚡ Fun fact: Uma Baguncinha sempre é bom !
+- ⚡ Fun fact: Usar o Computer 👨🏻‍💻!
 <div align="center">
   <a href="https://github.com/FelipeBona">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeBona&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
