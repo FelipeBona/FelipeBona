@@ -5,7 +5,7 @@
 - 🌱 Estudo Ciência da Computação na Furb e faço cursos na ProWay
 - 📫 How to reach me: Linkedin: (Felipe Bona)
 - 😄 Pronouns: Vamo Dale 
-- ⚡ Fun fact: Usar o Computer 👨🏻‍💻!
+- ⚡ Fun fact: Use the Computer 👨🏻‍💻!
 <div align="center">
   <a href="https://github.com/FelipeBona">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeBona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
