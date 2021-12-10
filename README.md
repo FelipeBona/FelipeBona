@@ -1,7 +1,7 @@
 ### Olá sou o Felipe Bona !
 
 
-- 🔭 Hoje Trabalho com front-end e back-end Na Senior
+- 🔭 Hoje Trabalho com Back-end e Front-end  Na Senior
 - 🌱 Estudo Ciência da Computação na Furb e faço cursos na ProWay
 - 📫 How to reach me: Linkedin: (Felipe Bona)
 - 😄 Pronouns: Vamo Dale 
