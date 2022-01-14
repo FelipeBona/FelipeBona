@@ -6,11 +6,6 @@
 - 📫 How to reach me: Linkedin: (Felipe Bona)
 - 😄 Pronouns: Vamo Dale 
 - ⚡ Fun fact: Use the Computer 👨🏻‍💻!
-<div align="center">
-  <a href="https://github.com/FelipeBona">
-  <img height="140em" src="https://github-readme-stats.vercel.app/api?username=FelipeBona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-  <img height="140em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBona&layout=compact&langs_count=7&theme=tokyonight"/>
-</div>
   
   
   
