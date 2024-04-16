@@ -21,7 +21,7 @@
   ##
   
   <div>
-     <a href="https://www.linkedin.com/in/felipe-bona-174943213" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+     <a href="[https://www.linkedin.com/in/felipe-bona-174943213](https://www.linkedin.com/in/felipe-bona-regis-karmann-174943213/)" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
     <a href="https:Viva Bill Gates" target="_blank"><img src="https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white"></a>
      <a href="https:(47)997360-777" target="_blank"><img src="https://img.shields.io/badge/WhatsApp-25D366?style=for-the-badge&logo=whatsapp&logoColor=white"></a>
      <a href="https:felipebonaregiskarmann@icloud.com" target="_blank"><img src="https://img.shields.io/badge/iOS-000000?style=for-the-badge&logo=ios&logoColor=white"></a>
