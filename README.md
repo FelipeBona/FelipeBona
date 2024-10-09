@@ -2,8 +2,6 @@
 
 
 - 🔭 Hoje Trabalho com Back-end e Front-end
-- 🌱 Estudo Ciência da Computação na Furb e faço cursos na ProWay e na Alura
-- 📫 How to reach me: Linkedin: (Felipe Bona)
   
   
   
