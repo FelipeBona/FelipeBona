@@ -45,5 +45,26 @@ Essa formação e experiência me dão uma base sólida para atuar em diferentes
 </div>
   
   ##
-  
+  <!-- Inicio do jogo da cobrinha -->
+<picture>
+  <source
+    media="(prefers-color-scheme: light)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake-dark.svg"
+  />
+  <source
+    media="(prefers-color-scheme: dark)"
+    srcset="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+  <img
+    alt="github contribution grid snake animation"
+    src="https://raw.githubusercontent.com/platane/snk/output/github-contribution-grid-snake.svg"
+  />
+</picture>
+
+<p align="center"> 
+  <img src="https://github-readme-stats.vercel.app/api?username=FelipeBona&show_icons=true&theme=gotham" alt="FelipeBona" />
+</p>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipebona&layout=compact&theme=react"/>
+</p>
   ##
