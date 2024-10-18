@@ -1,50 +1,46 @@
 
-# Sobre mim
-Atualmente, estou cursando Ciência da Computação na FURB, no período noturno. Tenho experiência em desenvolvimento de software, trabalhando tanto no back-end quanto no front-end, com ênfase na linguagem Java. Possuo sólidos conhecimentos em diversas ferramentas, frameworks e bancos de dados, e concluí um pacote completo de formação em desenvolvimento full-stack pela Pro Way, além de cursos adicionais pela Alura.
+<div>
+<p align="left">Opa, meu nome é Felipe B R Karmann .Possuo conhecimentos em backend e frontend, porém meu forte seria o back. <strong>Java</strong><img align="center" alt="Java" height="25" width="35" src="https://icongr.am/devicon/java-plain.svg?size=128&color=dd58c1"/></a><br>
+<p align="left">🎓 Graduando em ciência da computação, pela <strong>Universidade Regional de Blumenau - FURB<strong>
+</div>
 
-### Certificações e Cursos Concluídos
+##
+<br>
+<div align="center">
+  <a href = "https://github.com/FelipeBona">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeBona&show_icons=true&theme=jolly&include_all_commits=true&count_private=true"/>
+  <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBona&layout=compact&langs_count=7&theme=jolly&count_private=true"/>
+</div>
 
-- Pacote Office - Fundamentos
-- Explorando os Recursos do Office na Nuvem
-- Excel Avançado
-- Lógica, Algoritmo, Banco de Dados, SQL e Orientação a Objetos
-- HTML5 Avançado
-- TypeScript
-- JavaScript: Avançado
-- Java Avançado
-- Angular
-- Spring Boot
-- React
-- Lógica para Programação
-- Amazon AWS
-- Docker
-- Git e GitHub
-- Testes Unitários
-- DevOps
-- Comunicação
-- Metodologia Scrum
-- Liderança: Aprendendo a Liderar Pessoas
-- React Native
-- Arquitetura de Computadores
-- Node.js
-- Java Web
-- Banco de Dados PostgreSQL/MySQL
-- Autodesk Revit
-- Autodesk AutoCAD
-- S4 Detalhamento de Estruturas 2D
-- Graphisoft Archicad
-
-Essa formação e experiência me dão uma base sólida para atuar em diferentes áreas do desenvolvimento de software, bem como na gestão de projetos de TI.
+  ##
   
-  <div style="display: inline_block"><br>
-  <img align="center" alt="Felipe-Java" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
-  <img align="center" alt="Felipe-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="Felipe-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-   <img align="center" alt="Felipe-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-    <img align="center" alt="Felipe-Spring" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/spring/spring-original.svg">
+### 💠 **_Tecnologias que conheço_** 💠
+
+<div style="display: inline_block"><br>
+  <img align="center" alt="Java" height="30" width="40" src="https://icongr.am/devicon/java-plain.svg?size=128&color=dd58c1" />
+  <img align="center" alt="Js" height="30" width="40" src="https://icongr.am/devicon/javascript-plain.svg?size=128&color=dd58c1">
+  <img align="center" alt="HTML" height="30" width="40" src="https://icongr.am/devicon/html5-plain-wordmark.svg?size=128&color=dd58c1">
+  <img align="center" alt="CSS" height="30" width="40" src="https://icongr.am/devicon/css3-plain-wordmark.svg?size=128&color=dd58c1">
+  <img align="center" alt="MySql" height="30" width="40" src="https://icongr.am/devicon/mysql-plain.svg?size=128&color=dd58c1">
+  <img align="center" alt="Angular" height="30" width="40" src="https://icongr.am/devicon/angularjs-plain.svg?size=128&color=dd58c1" />
 </div>
   
-  ##
+##
+
+### Me siga nas redes sociais
+  
+<div>
+<a href="https://www.linkedin.com/in/felipe-bona-regis-karmann-174943213/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
+  
+###
+
+<p align="left">
+  <strong>Número de visitas: </strong><br> <img src="https://profile-counter.glitch.me/FelipeBona/count.svg" alt="contador de visitas">
+</p>
+  
+    
+</div>
+  
   <!-- Inicio do jogo da cobrinha -->
 <picture>
   <source
@@ -61,10 +57,5 @@ Essa formação e experiência me dão uma base sólida para atuar em diferentes
   />
 </picture>
 
-<p align="center"> 
-  <img src="https://github-readme-stats.vercel.app/api?username=FelipeBona&show_icons=true&theme=gotham" alt="FelipeBona" />
-</p>
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Felipebona&layout=compact&theme=react"/>
-</p>
-  ##
+
+
