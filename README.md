@@ -14,7 +14,7 @@ var me = {
 ```
 
 <div>
-<p align="left">Meu nome é Felipe Bona Regis Karmann.Possuo conhecimentos em backend e frontend.<strong>Java</strong><img align="center" alt="Java" height="25" width="35" src="https://icongr.am/devicon/java-plain.svg?size=128&color=dd58c1"/></a><br>
+<p align="left">Meu nome é Felipe Bona Regis Karmann.Possuo conhecimentos em backend e frontend. <strong>Java</strong><img align="center" alt="Java" height="25" width="35" src="https://icongr.am/devicon/java-plain.svg?size=128&color=dd58c1"/></a><br>
 <p align="left">🎓 Graduando em ciência da computação, pela <strong>Universidade Regional de Blumenau - FURB<strong>
 </div>
 
