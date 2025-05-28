@@ -139,7 +139,7 @@ Sistema avançado para gerenciamento e processamento de arquivos DXF, desenvolvi
 
 ---
 
-## 🤝 Vamos Conectar?
+## 🤝 Contatos?
 
 <div align="center">
   <a href="https://www.linkedin.com/in/felipe-bona-regis-karmann-174943213/" target="_blank">
