@@ -29,7 +29,7 @@ const developer = {
 ### 📁 [Gerenciador de DXF](https://github.com/FelipeBona/FelipeBona/blob/main/Gerenciador%20de%20DXF.md)
 Sistema avançado para gerenciamento e processamento de arquivos DXF, desenvolvido com foco em automação e eficiência para projetos de engenharia.
 
-**Tecnologias:** Python
+**Tecnologia:** Python
 
 ---
 
