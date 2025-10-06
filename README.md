@@ -33,7 +33,7 @@ const felipe = {
   },
   principles: ["Clean Code", "SOLID", "DRY", "KISS"],
   currentlyLearning: ["Cloud Architecture", "DevOps", "System Design"],
-  hobbies: ["Problem Solving", "Open Source", "Tech Blogging"]
+  hobbies: ["Problem Solving", "Open Source"]
 };
 ```
 
