@@ -83,11 +83,31 @@ const felipe: Developer = {
 
 </div>
 
+### 📊 Planner de Tarefas Excel Engenharia
+
+**Sistema Desktop de Gestão de Projetos e Tarefas**
+
+Sistema desktop robusto para Windows focado em planejamento, organização e acompanhamento de tarefas e projetos de engenharia, com recursos avançados de visualização e controle multiusuário.
+
+**Destaques Técnicos:**
+- 📈 Visualização em gráfico de Gantt para planejamento temporal
+- 🔍 Sistema avançado de filtros por período, responsável, projeto e status
+- 📑 Exportação inteligente para Excel com correção automática de formatação
+- 🔒 Sistema de bloqueio de edição multiusuário para prevenir conflitos
+- 📊 Relatórios estatísticos e análise de carga de trabalho diária
+- 🎨 Interface moderna, responsiva e intuitiva
+
+**Impacto:** Solução que otimiza a gestão de projetos de engenharia, proporcionando controle total sobre prazos, recursos e progresso de tarefas.
+
+**Público-alvo:** Engenheiros, gestores de projetos, equipes técnicas e administrativas.
+
+---
+
 ### 🔧 [Gerenciador de DXF](https://github.com/FelipeBona/FelipeBona/blob/main/Gerenciador%20de%20DXF.md)
 
 **Sistema Avançado de Gerenciamento de Arquivos DXF**
 
-Um sistema automatizado desenvolvido em Python para processamento e gerenciamento de arquivos DXF de engenharia, focado em eficiência e escalabilidade.
+Sistema automatizado desenvolvido em Python para processamento e gerenciamento de arquivos DXF de engenharia, focado em eficiência e escalabilidade.
 
 **Destaques Técnicos:**
 - ⚡ Pipeline de processamento automatizado com alta performance
@@ -155,7 +175,31 @@ Um sistema automatizado desenvolvido em Python para processamento e gerenciament
 <img height="180em" src="https://github-readme-stats.vercel.app/api?username=FelipeBona&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&title_color=3B82F6&icon_color=3B82F6&text_color=C9D1D9&bg_color=0D1117"/>
 <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=FelipeBona&layout=compact&langs_count=7&theme=tokyonight&hide_border=true&title_color=3B82F6&text_color=C9D1D9&bg_color=0D1117"/>
 
+<br><br>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=FelipeBona&theme=tokyonight&hide_border=true&background=0D1117&stroke=3B82F6&ring=3B82F6&fire=3B82F6&currStreakLabel=3B82F6" />
+
+<br><br>
+
+### 🏆 GitHub Trophies
+
+<img src="https://github-profile-trophy.vercel.app/?username=FelipeBona&theme=tokyonight&no-frame=true&no-bg=false&margin-w=4&column=7" />
+
+<br><br>
+
+### 📈 Contribution Graph
+
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=FelipeBona&custom_title=Contribution%20Activity&bg_color=0D1117&color=3B82F6&line=3B82F6&point=FFFFFF&area_color=0D1117&area=true&hide_border=true" />
+
+<br><br>
+
+### 🐍 Contribution Snake
+
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/FelipeBona/FelipeBona/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/FelipeBona/FelipeBona/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/FelipeBona/FelipeBona/output/github-contribution-grid-snake-dark.svg">
+</picture>
 
 </div>
 
@@ -251,6 +295,8 @@ Um sistema automatizado desenvolvido em Python para processamento e gerenciament
 <br>
 
 <sub>⭐ From [FelipeBona](https://github.com/FelipeBona) with dedication and passion for technology</sub>
+
+<br><br>
 
 ![Wave](https://raw.githubusercontent.com/mayhemantt/mayhemantt/Update/svg/Bottom.svg)
 
