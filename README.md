@@ -544,7 +544,7 @@ ELK Stack
 ║   become a software craftsman by learning a list of what to do and         ║
 ║   what not to do. Professionalism and craftsmanship come from values       ║
 ║   that drive disciplines."                                                 ║
-║                                                              - Uncle Bob   ║
+║                                                                            ║
 ║                                                                            ║
 ╚════════════════════════════════════════════════════════════════════════════╝
 ```
